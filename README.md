@@ -1,4 +1,5 @@
 # VK-Communities-Parser
+[English](README.md) | [Русский](README.RU.md)
 
 VK-Communities-Parser is a Python program that allows you to extract and process posts from VKontakte (VK) communities.
 
