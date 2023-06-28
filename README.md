@@ -50,6 +50,7 @@ This program is licensed under the [MIT License](LICENSE).
 
 The program utilizes the VKontakte API for fetching posts from VK communities. Special thanks to the developers of `requests` and `demoji` libraries for their valuable contributions.
 
-## Disclaimer
 
-This program is provided as-is without any warranty. Use it responsibly and respect the terms and conditions of the VKontakte platform.
+---
+
+**Disclaimer**: This program is provided as-is without any warranty. Use it responsibly and respect the terms and conditions of the VKontakte platform.
